@@ -44,7 +44,21 @@
 
 ![Zv00AJ.png](https://s2.ax1x.com/2019/07/19/Zv00AJ.png)
 
+### 更新：
 
+#### 2019-07-20：
+
+    ####  1、禁用独显，根据大神 [@7ac](https://github.com/7ack/Acer-V5-572-Hackintosh)的教程，*屏蔽独显：如果使用了WhateverGreen.kext可以直接增加-wegnoegpu启动参数来屏蔽独显*
+
+![Zzk1rF.png](https://s2.ax1x.com/2019/07/20/Zzk1rF.png)
+
+#### 2、定制USB，驱动根据黑果小兵视频 [定制USB驱动](https://www.bilibili.com/video/av40180517?from=search&seid=11665402613183043689)
+
+![Zzka26.png](https://s2.ax1x.com/2019/07/20/Zzka26.png)
+
+#### 3、修复声卡有时重启失效问题：```ACPI设置里面```勾选```修复HPET```
+
+![image-20190720110001719](/Users/chakid/Library/Application Support/typora-user-images/image-20190720110001719.png)
 
 ### 镜像来源：
 
