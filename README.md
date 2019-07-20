@@ -48,7 +48,7 @@
 
 #### 2019-07-20：
 
-    ####  1、禁用独显，根据大神 [@7ac](https://github.com/7ack/Acer-V5-572-Hackintosh)的教程，*屏蔽独显：如果使用了WhateverGreen.kext可以直接增加-wegnoegpu启动参数来屏蔽独显*
+#### 1、禁用独显，根据大神 [@7ac](https://github.com/7ack/Acer-V5-572-Hackintosh)的教程，*屏蔽独显：如果使用了WhateverGreen.kext可以直接增加-wegnoegpu启动参数来屏蔽独显*
 
 ![Zzk1rF.png](https://s2.ax1x.com/2019/07/20/Zzk1rF.png)
 
@@ -58,7 +58,7 @@
 
 #### 3、修复声卡有时重启失效问题：```ACPI设置里面```勾选```修复HPET```
 
-![image-20190720110001719](/Users/chakid/Library/Application Support/typora-user-images/image-20190720110001719.png)
+![ZzAo6K.png](https://s2.ax1x.com/2019/07/20/ZzAo6K.png)
 
 ### 镜像来源：
 
