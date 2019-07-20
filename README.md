@@ -52,6 +52,8 @@
 
 ![Zzk1rF.png](https://s2.ax1x.com/2019/07/20/Zzk1rF.png)
 
+![ZzAxpt.png](https://s2.ax1x.com/2019/07/20/ZzAxpt.png)
+
 #### 2、定制USB，驱动根据黑果小兵视频 [定制USB驱动](https://www.bilibili.com/video/av40180517?from=search&seid=11665402613183043689)
 
 ![Zzka26.png](https://s2.ax1x.com/2019/07/20/Zzka26.png)
