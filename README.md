@@ -62,6 +62,10 @@
 
 ![ZzAo6K.png](https://s2.ax1x.com/2019/07/20/ZzAo6K.png)
 
+#### 4、修复声卡不能使用麦克风，测试多个ID发现注入ID为31的时候可以使用
+
+![ZzONrt.png](https://s2.ax1x.com/2019/07/20/ZzONrt.png)
+
 ### 镜像来源：
 
 ##### 黑果小兵的部落阁：https://blog.daliansky.net
