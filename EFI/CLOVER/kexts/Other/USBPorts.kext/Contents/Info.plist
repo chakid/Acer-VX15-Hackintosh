@@ -22,7 +22,7 @@
 	<string>1.0</string>
 	<key>IOKitPersonalities</key>
 	<dict>
-		<key>MacBookPro13,1-XHC</key>
+		<key>MacBookPro14,3-XHC</key>
 		<dict>
 			<key>CFBundleIdentifier</key>
 			<string>com.apple.driver.AppleUSBMergeNub</string>
@@ -53,7 +53,7 @@
 					<key>HS01</key>
 					<dict>
 						<key>DevSpeed</key>
-						<integer>3</integer>
+						<integer>1</integer>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>port</key>
@@ -74,13 +74,20 @@
 					</dict>
 					<key>HS03</key>
 					<dict>
-						<key>DevSpeed</key>
-						<integer>2</integer>
 						<key>UsbConnector</key>
 						<integer>255</integer>
 						<key>port</key>
 						<data>
 						AwAAAA==
+						</data>
+					</dict>
+					<key>HS04</key>
+					<dict>
+						<key>UsbConnector</key>
+						<integer>10</integer>
+						<key>port</key>
+						<data>
+						BAAAAA==
 						</data>
 					</dict>
 					<key>HS05</key>
@@ -129,8 +136,6 @@
 					</dict>
 					<key>SS01</key>
 					<dict>
-						<key>DevSpeed</key>
-						<integer>3</integer>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>port</key>
@@ -140,8 +145,6 @@
 					</dict>
 					<key>SS02</key>
 					<dict>
-						<key>DevSpeed</key>
-						<integer>1</integer>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>port</key>
@@ -151,8 +154,6 @@
 					</dict>
 					<key>SS03</key>
 					<dict>
-						<key>DevSpeed</key>
-						<integer>2</integer>
 						<key>UsbConnector</key>
 						<integer>255</integer>
 						<key>port</key>
@@ -160,10 +161,17 @@
 						EwAAAA==
 						</data>
 					</dict>
+					<key>SS04</key>
+					<dict>
+						<key>UsbConnector</key>
+						<integer>10</integer>
+						<key>port</key>
+						<data>
+						FAAAAA==
+						</data>
+					</dict>
 					<key>SS05</key>
 					<dict>
-						<key>DevSpeed</key>
-						<integer>1</integer>
 						<key>UsbConnector</key>
 						<integer>0</integer>
 						<key>port</key>
@@ -173,8 +181,6 @@
 					</dict>
 					<key>SS07</key>
 					<dict>
-						<key>DevSpeed</key>
-						<integer>1</integer>
 						<key>UsbConnector</key>
 						<integer>255</integer>
 						<key>port</key>
@@ -184,8 +190,6 @@
 					</dict>
 					<key>SS09</key>
 					<dict>
-						<key>DevSpeed</key>
-						<integer>2</integer>
 						<key>UsbConnector</key>
 						<integer>255</integer>
 						<key>port</key>
@@ -195,8 +199,6 @@
 					</dict>
 					<key>SS10</key>
 					<dict>
-						<key>DevSpeed</key>
-						<integer>2</integer>
 						<key>UsbConnector</key>
 						<integer>255</integer>
 						<key>port</key>
@@ -206,8 +208,6 @@
 					</dict>
 					<key>USR2</key>
 					<dict>
-						<key>DevSpeed</key>
-						<integer>3</integer>
 						<key>UsbConnector</key>
 						<integer>255</integer>
 						<key>port</key>
@@ -218,7 +218,7 @@
 				</dict>
 			</dict>
 			<key>model</key>
-			<string>MacBookPro13,1</string>
+			<string>MacBookPro14,3</string>
 		</dict>
 	</dict>
 	<key>OSBundleRequired</key>

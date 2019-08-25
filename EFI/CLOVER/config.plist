@@ -377,7 +377,7 @@
 		<key>Audio</key>
 		<dict>
 			<key>Inject</key>
-			<integer>27</integer>
+			<integer>31</integer>
 			<key>ResetHDA</key>
 			<false/>
 		</dict>
@@ -703,17 +703,17 @@
 	<key>SMBIOS</key>
 	<dict>
 		<key>BiosReleaseDate</key>
-		<string>10/30/2018</string>
+		<string>05/28/2019</string>
 		<key>BiosVendor</key>
 		<string>Apple Inc.</string>
 		<key>BiosVersion</key>
-		<string>MBP131.88Z.F000.B00.1810301605</string>
+		<string>MBP143.88Z.F000.B00.1905281616</string>
 		<key>Board-ID</key>
-		<string>Mac-473D31EABEB93F9B</string>
+		<string>Mac-551B86E5744E2388</string>
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C02719403GUHMHK1F</string>
+		<string>C02732200GUJ1JH1M</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -725,11 +725,11 @@
 		<key>ChassisType</key>
 		<string>0x09</string>
 		<key>EfiVersion</key>
-		<string>228.0.0.0.0</string>
+		<string>196.0.0.0.0</string>
 		<key>Family</key>
 		<string>MacBook Pro</string>
 		<key>FirmwareFeatures</key>
-		<string>0xFC0FE137</string>
+		<string>0xFC0FE13F</string>
 		<key>FirmwareFeaturesMask</key>
 		<string>0xFF1FFF3F</string>
 		<key>LocationInChassis</key>
@@ -741,13 +741,13 @@
 		<key>PlatformFeature</key>
 		<string>0x1A</string>
 		<key>ProductName</key>
-		<string>MacBookPro13,1</string>
+		<string>MacBookPro14,3</string>
 		<key>ProductName-Comment</key>
 		<string>Using Haswell MacBookAir6,2 until Clover has support for KabyLake identifiers</string>
 		<key>SerialNumber</key>
-		<string>C02TPCYVGVC1</string>
+		<string>C02V6MZ7HTD5</string>
 		<key>SmUUID</key>
-		<string>F484CE18-9385-4271-9FF2-2BB788DD05DF</string>
+		<string>04D4C574-E67C-4AA5-ABED-94F238F49C90</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
